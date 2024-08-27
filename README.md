@@ -1,4 +1,4 @@
-# Tech Scholarships 2025 by [Your Name/Organization]
+# Tech/STEM Scholarships 2025 by College Students
 
 I'm excited to help you navigate and keep track of tech scholarships for 2025! This list is intended to be maintained collaboratively to help college students in STEM in the United States find valuable scholarships to apply to.
 
