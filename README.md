@@ -16,8 +16,12 @@ I'm excited to help you navigate and keep track of tech scholarships for 2025! T
 
 ## Scholarships
 
-| Scholarship Name                              | Type                    | Region-Specific 📍  | Deadline      | Application Link  |
-|-----------------------------------------------|-------------------------|-------------------|---------------|------------------|
-| TMCF Lowe's Scholarship 💵 🇺🇸                | Need-based, U.S. Citizens, HBCU | No                | Dec 06        | [Apply Now](https://www.tmcf.org/students-alumni/scholarship/tmcf-lowes-scholarship-3/) |
+| Scholarship Name                              | Type                       | Region-Specific 📍  | Deadline      | Application Link  |
+|-----------------------------------------------|----------------------------|-------------------|---------------|------------------|
+| TMCF Lowe's Scholarship 💵 🇺🇸                | Need-based, U.S. Citizens, HBCU | No           | Dec 06        | [Apply Now](https://www.tmcf.org/students-alumni/scholarship/tmcf-lowes-scholarship-3/) |
+| Swallow Scholarship 🎯                         | College Students            | No                | Sep 01        | [Apply Now](https://www.linkedin.com/posts/esv261_google-forms-sign-in-activity-7230843194748346368-mMuM?utm_source=share&utm_medium=member_desktop) |
+
+
+
 
 ⬆️ [Jump to top](#) ⬆️
