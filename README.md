@@ -23,7 +23,5 @@ I'm excited to help you navigate and keep track of tech scholarships for 2025! T
 | Nike HSI Scholarship 🎯                        | Merit-based, HSI student    | No                | Sep 15        | [Apply Now](https://nike-hsi-scholarship.hsfts.net/scholarship) 
 
 
-
-
-
 ⬆️ [Jump to top](#) ⬆️
+scholarships
