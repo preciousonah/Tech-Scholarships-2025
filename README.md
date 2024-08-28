@@ -28,11 +28,20 @@ https://docs.google.com/spreadsheets/d/1L2fLZUU65VvubX0GkCDhbTJ485dGdCltu_r1REm9
 
 ## Scholarships
 
-| Scholarship Name                              | Type                       | Region-Specific 📍  | Deadline      | Application Link  |
-|-----------------------------------------------|----------------------------|-------------------|---------------|------------------|
-| TMCF Lowe's Scholarship 💵 🇺🇸                | Need-based, U.S. Citizens, HBCU | No           | Dec 06        | [Apply Now](https://www.tmcf.org/students-alumni/scholarship/tmcf-lowes-scholarship-3/) |
-| Swallow Scholarship 🎯                         | College Students            | No                | Sep 01        | [Apply Now](https://www.linkedin.com/posts/esv261_google-forms-sign-in-activity-7230843194748346368-mMuM?utm_source=share&utm_medium=member_desktop) |
-| Nike HSI Scholarship 🎯                        | Merit-based, HSI student    | No                | Sep 15        | [Apply Now](https://nike-hsi-scholarship.hsfts.net/scholarship) 
+| Scholarship Name                              | Type                                         | Region-Specific 📍 | Deadline      | Application Link  |
+|-----------------------------------------------|----------------------------------------------|--------------------|---------------|------------------|
+| TMCF Lowe's Scholarship 💵 🇺🇸                | Need-based, U.S. Citizens, HBCU              | No                 | Dec 06        | [Apply Now](https://www.tmcf.org/students-alumni/scholarship/tmcf-lowes-scholarship-3/) |
+| Swallow Scholarship 🎯                       | College Students                            | No                 | Sep 1st       | [Apply Now](https://www.linkedin.com/posts/esv261_google-forms-sign-in-activity-7230843194748346368-mMuM?utm_source=share&utm_medium=member_desktop) |
+| Nike HSI Scholarship 🎯                      | Merit-based                                 | HSI student        | Sep 15        | [Apply Now](https://nike-hsi-scholarship.hsfts.net/scholarship) |
+| UNCF Excellence in STEM 🎯 🇺🇸                | Merit-based, U.S. Citizens                   | No                 | Sep 4         | [Apply Now](https://opportunities.uncf.org/s/program-landing-page?id=a2iVJ00000I5M5ZYAV) |
+| UNCF Home Depot Scholarship Program 🎯 🇺🇸    | Merit-based, U.S. Citizens                   | No                 | Sep 9         | [Apply Now](https://opportunities.uncf.org/s/program-landing-page?id=a2iVJ000007E5lQYAS) |
+| AGI Training Scholarships 🎯 🇺🇸              | Merit-based                                 | No                 | December 31   | [Apply Now](https://www.agitraining.com/scholarships) |
+| AT&T/ The NETwork BICP - Lewis Latimer Scholarship 🎯 🇺🇸 | Need-based, U.S. Citizens                   | No                 | Sep 5         | [Apply Now](https://opportunities.uncf.org/s/program-landing-page?id=a2iVJ00000FLXtTYAX) |
+| Two Sigma Scholarship 🎯 🇺🇸                 | Merit-based                                 | No                 | Nov 06        | [Apply Now](https://www.twosigma.com/community/academic-partnerships/undergraduate/scholarships/?utm_source=linkedin&utm_medium=organic&utm_campaign=Academic_Partnerships&utm_content=static&utm_term=Undergraduate) |
+| Learner Math Scholarship 🎯 🇺🇸               | Merit-based, U.S. Citizens                   | No                 | Nov 20        | [Apply Now](https://www.learner.com/blog/mathnasium-vs-kumon-vs-learner#scholarship) |
+| Applied Materials Momentum Scholarship 🎯 🇺🇸| Need based                                  | No                 | Varies        | [Apply Now](https://www.appliedmaterials.com/us/en/corporate-responsibility/purpose/momentum.html) |
+| Don't Text and Drive Scholarship 🎯 🇺🇸       | No requirement                              | No                 | Varies        | [Apply Now](https://www.digitalresponsibility.org/dont-text-and-drive-scholarship) |
+
 
 
 ⬆️ [Jump to top](#) ⬆️
