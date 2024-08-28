@@ -12,6 +12,18 @@ I'm excited to help you navigate and keep track of tech scholarships for 2025! T
 - 📍 - Region-Specific Scholarship (e.g., limited to a particular state or region within the U.S.)
 
 
+## Contribute to the Repository
+If you come across a scholarship that isn't listed here, you can contribute in two ways:
+
+## Direct Contribution: 
+
+Fork this repository, add the scholarship details to the appropriate section, and submit a pull request. Please check the [Contributing Guidelines](CONTRIBUTING.md) for more details.
+
+## Add to Google Sheet:
+If you aren't able to contribute directly to the repo, you can add the scholarship details to this
+Google Sheet👇🏾
+https://docs.google.com/spreadsheets/d/1L2fLZUU65VvubX0GkCDhbTJ485dGdCltu_r1REm9nNQ/edit?gid=0#gid=0
+
 ⬇️ Jump to bottom ⬇️
 
 ## Scholarships
